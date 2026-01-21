@@ -41,7 +41,7 @@ A base de dados utilizada é um arquivo CSV contendo informações de diversos p
     pip install pandas pyautogui
 3. Certifique-se de que o arquivo  está na mesma pasta do script.
 4. Execute o script:
-   python automacao.py
+   python main.py
 
 ---
 
